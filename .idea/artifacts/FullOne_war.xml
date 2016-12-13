@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="FullOne:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="Full.war">
+      <element id="artifact" artifact-name="FullOne:war exploded" />
+    </root>
+  </artifact>
+</component>
